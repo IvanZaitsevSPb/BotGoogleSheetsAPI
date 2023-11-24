@@ -1,6 +1,6 @@
 # BotGoogleSheetsAPI
 
-![Example Image](Google sheets.jpg)
+![Example Image](Google_sheets.jpg)
 
 Telegram bot for uploading xlsx files to Google Sheets via Google Sheets API
 ## Functioning
